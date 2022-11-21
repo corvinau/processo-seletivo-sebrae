@@ -35,5 +35,3 @@ Para manter a organização do projeto existem duas pastas principais. A pasta `
 ## Observações
 
 Não consegui fazer a tarefa do CRUD, tive alguns problemas com outras coisas e nessas 4 horas de trabalho percebi que mesmo que começasse não conseguiria terminar, então achei melhor não fazer e focar nas outras tarefas passadas.
-
-Também tive alguns problemas com meu Gitlab, tentei resolver o problema, criei uma nova chave ssh e tudo mais, mas não entendi o que aconteceu. E pra não perder mais tempo e focar no desenvolvimento, acabei não fazendo o versionamento no Gitlab e nem criando as branchs de trabalho baseado no gitflow. Foi apenas um problema isoladdo.
