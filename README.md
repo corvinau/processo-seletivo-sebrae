@@ -38,4 +38,4 @@ Para manter a organização do projeto existem duas pastas principais. A pasta `
 
 ## Observações
 
-Não consegui fazer a tarefa do CRUD, tive alguns problemas com outras coisas e nessas 4 horas de trabalho percebi que mesmo que começasse não conseguiria terminar, então achei melhor não fazer e focar nas outras tarefas passadas.
+Não consegui fazer a tarefa do CRUD que foi solicitada, tive alguns problemas técnicos e no tempo disponibilizado percebi que mesmo que começasse não conseguiria terminar, então achei melhor focar nas outras tarefas passadas e aprimorar o máximo possível dentro do que foi pedido.
