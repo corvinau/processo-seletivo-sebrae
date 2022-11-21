@@ -24,6 +24,10 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador para ver o resu
 
 Depois disso basta testar.
 
+## Acessando o projeto em um servidor
+
+Para visualizar o projeto rodando em um servidor da [`Vercel`](https://vercel.com/), acesse: [https://prova-sebrae.vercel.app/](https://prova-sebrae.vercel.app/)
+
 ## Explicação da estrutura dos diretórios
 
 Dentro da pasta `src` tem o arquivo de `index` do projeto, que é a primeira página que vai ser aberta pela aplicação.
